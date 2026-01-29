@@ -18,6 +18,11 @@ In a highly connected digital world, students often experience screen fatigue, e
 The goal is to **support balance, not enforce restriction**.
 
 ---
+**Research**
+
+We conducted secondary research by analyzing **Headspace** and **Forest** to understand user engagement, habit formation, and emotional design. Insights from their calm UI, motivation techniques, and behavior nudges informed the design, AI logic, and wellness-focused features of MindPatch.
+
+
 
 ## 🧠 Key Features
 
