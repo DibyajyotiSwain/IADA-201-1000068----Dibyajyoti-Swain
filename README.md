@@ -107,6 +107,8 @@ The prototype was tested with peer users.
 
 ##  Link
 **Figma Design**: https://www.figma.com/design/0QzfHPcBArQAD1NGdtEVJY/MINDPATCH?node-id=7-12&p=f&t=NvSE2zu7BmBhE2Pd-0 
+
+
  **Figma Prototype:**  
 https://www.figma.com/proto/0QzfHPcBArQAD1NGdtEVJY/MINDPATCH?node-id=42-2741&p=f&t=NvSE2zu7BmBhE2Pd-0&scaling=min-zoom&content-scaling=fixed&page-id=7%3A12&starting-point-node-id=42%3A2741 
 
