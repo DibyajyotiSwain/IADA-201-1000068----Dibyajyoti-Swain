@@ -18,7 +18,13 @@ In a highly connected digital world, students often experience screen fatigue, e
 The goal is to **support balance, not enforce restriction**.
 
 ---
-**Research**
+Here is a **clean, copy-paste ready answer** you can directly put under that heading. It is concise, academic-sounding, and mark-safe.
+
+---
+
+### Main Research Findings
+
+Secondary research highlighted that excessive screen time is strongly linked to increased stress, anxiety, and reduced emotional well-being among students. Studies emphasize that **self-awareness, gentle nudging, and habit-based interventions** are more effective than restrictive controls. Research from the **World Health Organization** and peer-reviewed mental health studies informed the app’s calm design, mood tracking, and ethical AI-based detox suggestions.
 
 We conducted secondary research by analyzing **Headspace** and **Forest** to understand user engagement, habit formation, and emotional design. Insights from their calm UI, motivation techniques, and behavior nudges informed the design, AI logic, and wellness-focused features of MindPatch.
 
@@ -116,6 +122,17 @@ The prototype was tested with peer users.
 
  **Figma Prototype:**  
 https://www.figma.com/proto/0QzfHPcBArQAD1NGdtEVJY/MINDPATCH?node-id=42-2741&p=f&t=NvSE2zu7BmBhE2Pd-0&scaling=min-zoom&content-scaling=fixed&page-id=7%3A12&starting-point-node-id=42%3A2741 
+
+
+**Screenshots of the App Prototype**
+
+<img width="221" height="505" alt="Screenshot 2026-01-30 103356" src="https://github.com/user-attachments/assets/895e94a4-2149-41e0-bcf4-45b09985fa86" />
+
+
+<img width="302" height="653" alt="Screenshot 2026-01-30 103408" src="https://github.com/user-attachments/assets/badae1f8-bd76-43fe-adda-babcadecb570" />
+
+
+<img width="296" height="642" alt="Screenshot 2026-01-30 103433" src="https://github.com/user-attachments/assets/7c28a0a5-d9a0-4592-a133-2ec762db98b5" />
 
 
 **Scamper and Flowchart Shared in Files**
